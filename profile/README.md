@@ -1,6 +1,6 @@
 # Multitouch for Mac – Custom Multi-Gesture Control
 
-![Multitouch Screenshot](https://multitouch.app/assets/images/spotlight01.png)
+![Multitouch Screenshot](https://multitouch.app/assets/images/spotlight02.png)
 
 ## 📥 Download Multitouch for macOS
 
